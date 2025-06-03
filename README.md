@@ -1,12 +1,10 @@
 # Tapcart
 
-A React-based web application built with Vite for modern web development.
+Simple web app that tracks and displays how many times the Intercom chat widget is opened. 
 
-View Website
+[View Website](https://tapcart-demo.onrender.com)
 
 ## Setup Instructions
-
-### Frontend Setup
 
 Navigate to the frontend directory:
 ```bash
@@ -23,16 +21,10 @@ Run the development server:
 npm run dev
 ```
 
-### Development Scripts
+### Available Scripts
 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
 
-### Tech Stack
-
-- React 18
-- Vite 6
-- TypeScript
-- ESLint for code quality
