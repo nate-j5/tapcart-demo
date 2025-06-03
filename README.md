@@ -2,7 +2,7 @@
 
 Simple web app that tracks and displays how many times the Intercom chat widget is opened. 
 
-[View Website](https://tapcart-demo.onrender.com){:target="_blank"}
+[View Website](https://tapcart-demo.onrender.com)
 
 ## Setup Instructions
 
